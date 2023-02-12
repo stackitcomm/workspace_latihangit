@@ -113,7 +113,7 @@ global styles
 */
 html,
 body {
-  background: #fff;
+  background: rgb(3, 33, 70);
   font-family: 'Poppins', sans-serif;
 }
 
@@ -296,7 +296,7 @@ header
   margin-top: 27px;
   margin-left: 15%;
   margin-right: 0px;
-  background-color: #fff;
+  background-color: rgb(0, 0, 0);
   padding: 0px 20px;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -675,12 +675,12 @@ welcome
   line-height: 80px;
   letter-spacing: 1px;
   margin-bottom: 30px;
-  color: #191a20;
+  color: #ffffff;
 }
 
 .welcome-area .header-text h1 em {
   font-style: normal;
-  color: #fba70b;
+  color: #685454;
 }
 
 .welcome-area .header-text p {
